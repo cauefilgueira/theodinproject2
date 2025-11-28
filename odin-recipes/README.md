@@ -1,0 +1,2 @@
+This is the first project i'll be doing in 2025, starting to program again with the odin project.
+I am currently in the 5th semester of my comp. science degree and i've done EVERYTHING with gpt by now. I know how far behind i am, how depressed and sad overall, but i've been planting seeds of change for the past months, and i think it's starting to show. But very slowly.
